@@ -17,7 +17,7 @@
 
 - We can use `self` to reference the particular instance of the class and manipulate it
 
-- We can `return this` to allow us to chain methods together
+- We can `return self` to allow us to chain methods together
 
 ### Questions about this before we move on?
 
