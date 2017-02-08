@@ -18,7 +18,12 @@ Mac:
 - navigate to Python/django
 
 
-Windows:
+Windows (git bash):
+- navigate to Python/virtualenvs
+- `python -m virtualenv djangoEnv`
+- `source` or `call` or nothing preceding `djangoEnv/Scripts/activate`
+- (with environment active) `pip install django`
+- navigate up a level and over: `cd ../django`
 
 
 ### Django
