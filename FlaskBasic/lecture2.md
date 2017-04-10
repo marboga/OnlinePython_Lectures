@@ -1,6 +1,8 @@
 #Python - Flask Week Part 2
 
-####What Did We Learn Yesterday?
+####What Did We Learn last time?
+
+
 - Virtual Environments
   - Sandboxes where we can pile up every tool we need for the job.  We can reuse these in multiple projects!
 - Request/Response cycle
